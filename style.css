@@ -51,3 +51,26 @@ h1{
     background-color: #004030;
     color:  #DCD0A8;
 }
+
+#msg {
+    color: #DCD0A8;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+#new-game {
+    height: 7vmin;
+    width: 20vmin;
+    border-radius: 10px;
+    border: none;
+    background-color: #004030;
+    color:  #DCD0A8;
+}
+
+.winner-decision {
+    height : 20vmin;
+    margin-top: 70px;
+}
+.hide {
+    display: none;
+}
